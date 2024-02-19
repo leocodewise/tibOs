@@ -9,8 +9,8 @@ I always like to share my knowledge with everyone around. So I have decided to m
 I am planning to develop many features in this operating system, some of the features which I have thought are as follows:
 
 - [x] Boot loader
-- [x] 32-bit
-- [x] VGA (Standard Video Driver)
+- [ ] 32-bit
+- [ ] VGA (Standard Video Driver)
 - [ ] Kernel
 - [ ] It’s own File System
 - [ ] AHCI - SATA driver
