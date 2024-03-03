@@ -237,5 +237,4 @@ DISK_ERROR db "Disk read error", 0
 SECTORS_ERROR db "Incorrect number of sectors read", 0
 
 times     510-($-$$)     db   0
-
 dw   0xaa55
